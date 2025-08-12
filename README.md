@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=80&section=header"/>
 
 
-<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+YURI08;A+High+School+Student+in+Vietnam+;STAY+STEALTHY%2C+STAY+SHARP" alt="Typing SVG">
+<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+jstQHuy;+;STAY+STEALTHY%2C+STAY+SHARP" alt="Typing SVG">
 
  ![Vietnam](https://img.shields.io/badge/%F0%9F%87%BB%F0%9F%87%B3-Vietnam-red?style=for-the-badge)
 
@@ -23,9 +23,9 @@
 
  <p align="center">
   <img src="https://img.shields.io/badge/Learning-Cybersecurity-00ff00?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Learning Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Junior-Pentester-00ff00?style=for-the-badge&logo=linux&logoColor=white" alt="Junior Pentester"/>
-  <img src="https://img.shields.io/badge/CTF-Learner-00ff00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF Learner"/>
-  <img src="https://img.shields.io/badge/SOC-Analyst%20Path-00ff00?style=for-the-badge&logo=security&logoColor=white" alt="SOC Analyst Path"/>
+  <img src="https://img.shields.io/badge/Junior-Pentester-00ff00?style=for-the-badge&logo=linux&logoColor=white" alt="Intern Pentester"/>
+  <img src="https://img.shields.io/badge/CTF-Learner-00ff00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF Player"/>
+  <img src="https://img.shields.io/badge/SOC-Analyst%20Path-00ff00?style=for-the-badge&logo=security&logoColor=white" alt="DFIR Path"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Learner-00ff00?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bug Bounty Learner"/>
   <img src="https://img.shields.io/badge/Malware-Analysis%20Path-00ff00?style=for-the-badge&logo=virustotal&logoColor=white" alt="Malware Analysis Path"/>
 </p>
