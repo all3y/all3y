@@ -2,13 +2,26 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A0000&height=80&section=header"/>
 
 
-<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A0000&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+jstQHuy;+;STAY+STEALTHY%2C+STAY+SHARP" alt="Typing SVG">
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="260" viewBox="0 0 780 260">
+  <style>
+    .line {
+      font-family: "JetBrains Mono", monospace;
+      font-weight: 600;
+      font-size: 32px; /* chỉnh cỡ tại đây (24/32/48...) */
+      fill: #8A0000;   /* màu đỏ như bạn chọn */
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+  </style>
+
+  <text x="50%" y="28%" class="line">WELCOME TO MY GITHUB</text>
+  <text x="50%" y="54%" class="line">I'M jstQHuy</text>
+</svg>
+
 
 
 
  ![Vietnam](https://img.shields.io/badge/%F0%9F%87%BB%F0%9F%87%B3-Vietnam-red?style=for-the-badge)
-
-🇻🇳
 
 </div>
 
