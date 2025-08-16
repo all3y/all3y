@@ -319,100 +319,47 @@
 ---
 
 
-## 🚀 TryHackMe
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=TryHackMe+Rank;Always+Learning,+Always+Testing;Stay+Stealthy%2C+Stay+Sharp" alt="Matrix Typing">
-</p>
+<h2 align="left">🔥   My Stats :</h2>
 
-<p align="center">
-  <a href="https://tryhackme.com/p/Yuri08">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
-  </a>
-</p>
+###
 
-
-
-## 🛡️ Certificates
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=TryHackMe+Certificates;Always+Learning,+Always+Testing;Stealth+Mode+On" alt="Matrix Header">
-</p>
-
-<p align="center">
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6TGBPZ82LT.pdf">
-    <img src="https://img.shields.io/badge/Certificate%201-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Certificate 1">
-  </a>
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RHWSXYCMDJ.pdf">
-    <img src="https://img.shields.io/badge/Certificate%202-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Certificate 2">
-  </a>
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PWNWWY18A5.pdf">
-    <img src="https://img.shields.io/badge/Certificate%203-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Certificate 3">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snowfall/main/snowfall.gif" width="600" alt="Snowfall Effect"/>
-</p>
-
-
----
-
-<h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-
-
-
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=Yuri08loveElaina&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=8A2BE2&bg_color=0D1117" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuri08loveElaina&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%">
-
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri08loveElaina&theme=tokyonight&layout=pie"/> 
-
-
-</p>
-
----
-
-## 📡 Connect
-
-<p align="center">
-  <a href="https://github.com/Yuri08loveElaina"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/yuri08_sg"><img src="https://img.shields.io/badge/Twitter-8A2BE2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yuri08"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://tryhackme.com/p/YURI08"><img src="https://img.shields.io/badge/TryHackMe-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="mailto:nammoleong@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-
----
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8A2BE2&width=700&center=true&lines=Cybersecurity+Tiered+Plan;Stay+Stealthy%2C+Stay+Sharp;This+is+the+process+I+am+going+through...;It+will+be+what+I+achieve.">
-
-
-| Level | What to Learn | Tools / Goals |
-|---|---|---|
-| 🟩 **Level 1: Newbie** (Grade 5) | - Basic IT knowledge (OS, networking, IP, DNS, HTTP/HTTPS)<br>- Basic Python<br>- Simple home lab networking | `Wireshark`, `nmap`, `ping`, `tracert`, Python |
-| 🟩 **Level 2: Junior Pentester** | - Web pentesting basics (SQLi, XSS, IDOR, CSRF, SSRF basics)<br>- Master Linux & terminal<br>- Join beginner CTFs (`TryHackMe`, `HackTheBox`) | `Burp Suite`, `Kali Linux`, `ffuf`, `gobuster` |
-| 🟩 **Level 3: SOC Analyst Path** | - Learn SIEM basics, monitoring, alerts<br>- Basic incident response skills | `Wazuh`, `Splunk`, `Security Onion` |
-| 🟩 **Level 4: Bug Bounty Learner** | - Explore `HackerOne`, `Bugcrowd`<br>- Learn to find and report bugs responsibly | `Burp Suite`, recon tools (`amass`, `subfinder`) |
-| 🟩 **Level 5: Malware Analysis Learner** | - Basic malware analysis (strings, static analysis)<br>- Sandbox and unpacking basics | `Ghidra`, `VirusTotal`, `Cuckoo Sandbox` |
-| 🟩 **Level 6: 0day Hunter Path** | - Basic fuzzing<br>- Reverse engineering basics<br>- Intro to exploit development | `AFL`, `pwndbg`, `radare2`, `gdb` |
-| 🟩 **Level 7: God Tier** | - Real-world 0day hunting<br>- Build your own pentest tools<br>- Advanced OPSEC and Red Team tactics<br>- Compete in DEFCON / BlackHat CTFs | Custom fuzzers, exploit development, Red Team ops |
->“This is the process I have been and am going through, and it will be what I achieve.”
->— Yuri08
+  <img src="https://github-readme-stats.vercel.app/api?username=jstQHuy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jstQHuy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
+---
+
+
+<h2 align="left">🌐 Social Media</h2>
+
+
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/huy-ng%C3%B4-aa863a268/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/lvhstqh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/625148037299437598" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:quanghuy682004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img align="center" height="300" src="https://media1.tenor.com/images/fbcbdbff72bde829a29347bf162e870c/tenor.gif?itemid=3478341"  />
+
+
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </div>
