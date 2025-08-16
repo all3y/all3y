@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Intern-Pentester-00ff00?style=for-the-badge&logo=linux&logoColor=white" alt="Intern Pentester"/>
   <img src="https://img.shields.io/badge/CTF-Learner-00ff00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF Player"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Learner-00ff00?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bug Bounty Learner"/>
-  <img src="https://img.shields.io/badge/DFIR%20Path-00ff00?style=for-the-badge&logo=virustotal&logoColor=white" alt="Malware Analysis Path"/>
+  <img src="https://img.shields.io/badge/DFIR-%20Path-00ff00?style=for-the-badge&logo=virustotal&logoColor=white" alt="Malware Analysis Path"/>
 </p>
 
 
@@ -34,8 +34,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=I see flaws, I see opportunities.;Hack+the+limits,+build+the+future.;Every+test+makes+me+stronger."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=I see flaws, I see opportunities.;Hack+the+limits,+build+the+future.;Every+test+makes+me+stronger."/>
 </p>
 
 
