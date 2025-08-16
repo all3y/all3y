@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=I+see+flaws,+I+see+ opportunities.;Hack+the+limits,+build+the+future.;Every+test+makes+me+stronger."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=I+see+flaws,+I+see+opportunities.;Hack+the+limits,+build+the+future.;Every+test+makes+me+stronger." />
 </p>
 
 
