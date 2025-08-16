@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=8A2BE1&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Cybersecurity+Student;0-Day+Hunter;Exploit+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=8A2BE1&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Cybersecurity+Student" />
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
  <p align="center">
   <img src="https://img.shields.io/badge/Learning-Cybersecurity-00ff00?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Learning Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Junior-Pentester-00ff00?style=for-the-badge&logo=linux&logoColor=white" alt="Intern Pentester"/>
+  <img src="https://img.shields.io/badge/Intern-Pentester-00ff00?style=for-the-badge&logo=linux&logoColor=white" alt="Intern Pentester"/>
   <img src="https://img.shields.io/badge/CTF-Learner-00ff00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF Player"/>
-  <img src="https://img.shields.io/badge/SOC-Analyst%20Path-00ff00?style=for-the-badge&logo=security&logoColor=white" alt="DFIR Path"/>
+  <img src="https://img.shields.io/badge/DFIR-Path%20Path-00ff00?style=for-the-badge&logo=security&logoColor=white" alt="DFIR Path"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Learner-00ff00?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bug Bounty Learner"/>
   <img src="https://img.shields.io/badge/Malware-Analysis%20Path-00ff00?style=for-the-badge&logo=virustotal&logoColor=white" alt="Malware Analysis Path"/>
 </p>
@@ -35,7 +35,8 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=I%27m+learning+how+systems+work.;One+test+at+a+time.;Spot+problems+before+they+grow.;Find+small+bugs+others+miss."/>
+<img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=I see flaws, I see opportunities.;Hack+the+limits,+build+the+future.;Every+test+makes+me+stronger."/>
 </p>
 
 
