@@ -46,12 +46,9 @@
   
 ##  Skills
 <img src="https://img.shields.io/badge/OSINT-Recon-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white" alt="OSINT Recon"/>
-<img src="https://img.shields.io/badge/Web-AppSec-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web AppSec"/>
-<img src="https://img.shields.io/badge/Reverse-Engineering-8A2BE2?style=for-the-badge&logo=gnubash&logoColor=white" alt="Reverse Engineering"/>
-<img src="https://img.shields.io/badge/Linux-PrivEsc-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" alt="Linux PrivEsc"/>
-<img src="https://img.shields.io/badge/WiFi-Pentest-8A2BE2?style=for-the-badge&logo=wifi&logoColor=white" alt="WiFi Pentest"/>
-<img src="https://img.shields.io/badge/AV/EDR-Bypass-8A2BE2?style=for-the-badge&logo=security&logoColor=white" alt="AV/EDR Bypass"/>
-<img src="https://img.shields.io/badge/ActiveDirectory-Attacks-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory Attacks"/>
+<img src="https://img.shields.io/badge/Web-Pentest-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web AppSec"/>
+<img src="https://img.shields.io/badge/Forensics-Memory-8A2BE2?style=for-the-badge&logo=gnubash&logoColor=white" alt="Reverse Engineering"/>
+<img src="https://img.shields.io/badge/Log-Analysis-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" alt="Linux PrivEsc"/>
 <img src="https://img.shields.io/badge/Malware-Analysis-8A2BE2?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Malware Analysis"/>
 
 ---
