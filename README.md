@@ -2,15 +2,15 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A0000&height=80&section=header"/>
 
 
-<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A20000&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+jstQHuy;+;STAY+STEALTHY%2C+STAY+SHARP" alt="Typing SVG">
+<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A0000&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+jstQHuy;+;STAY+STEALTHY%2C+STAY+SHARP" alt="Typing SVG">
+
+<img align="center" height="300" src="https://media1.tenor.com/images/fbcbdbff72bde829a29347bf162e870c/tenor.gif?itemid=3478341"  />
+
 
  ![Vietnam](https://img.shields.io/badge/%F0%9F%87%BB%F0%9F%87%B3-Vietnam-red?style=for-the-badge)
 
 🇻🇳
 
-</div>
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </div>
 
 ---
