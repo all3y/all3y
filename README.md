@@ -3,7 +3,7 @@
 
 
 <img width="460" 
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A0000&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+jstQHuy;I’m+a+CTF+player+focusing+on+Digital+Forensics+&&+Web+Exploitation,;I’m+passionate+about+Information+Security+and+always+eager+to+learn+and+grow+in+the+field." 
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A0000&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+jstQHuy;I’m+a+CTF+player+focusing+on+Digital+Forensics+&&+Web+Exploitation;I’m+passionate+about+Information+Security+and+always+eager+to+learn+and+grow+in+the+field." 
 alt="Typing SVG">
 
 
